@@ -1,4 +1,4 @@
-# Analysis-of-public-sentiments-on-climate-change-for-formulating-policies
+# Public Sentiment Analysis on Climate Change - Python
 Analyzed and discussed the extent to which tweets can influence national or global policies on climate change. Conducted data discovery and cleaned Twitter data related to climate change. Classified tweets into categories ('anti,' 'news,' 'pro,' 'neutral') to understand sentiment analysis for policy formulation. Utilized Exploratory Data Analysis (EDA) to uncover patterns and trends within the dataset. Extracted buzz words across different sentiment categories to identify key themes and topics driving discussions. Employed Entity Extraction to identify prominent entities in the tweets. Evaluated multiple Machine Learning (ML) models for sentiment classification, prioritizing accuracy.
 
 This research project using python aims to understand the influence of public sentiments on social media, specifically Twitter, on the formulation of climate change policies. By analyzing and categorizing tweets, exploring patterns and themes, and evaluating ML models, the study seeks to shed light on how these sentiments can shape policy decisions.
